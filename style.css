@@ -1,0 +1,27 @@
+body{
+    background-color: mediumaquamarine;
+    color: black;
+    font-family: sans-serif;
+    display: flex;
+}
+
+p{
+    margin-left: 20px;
+}
+
+input{
+    border-radius: 7px;
+    margin-left: 3px;
+}
+
+button{
+    border-radius: 7px;
+    background-color: whitesmoke;
+    margin-left: 2%;
+    white-space: nowrap;
+}
+
+.divOne{
+    display: flex;
+    align-items: center;
+}
